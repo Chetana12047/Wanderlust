@@ -86,11 +86,11 @@ SECRET=
 
 Clone the repository
 
-git clone https://github.com/your-username/WanderLust.git
+git clone https://github.com/Chetana12047/Wanderlust.git
 
 Navigate to project folder
 
-cd WanderLust
+cd Wanderlust
 
 Install dependencies
 
